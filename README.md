@@ -1,6 +1,6 @@
-##  10 projects for HTML and CSS beginners
+#  10 projects for HTML and CSS beginners
 
-# Project 1 
+## Project 1 
 
 A Biography page of any person
 
