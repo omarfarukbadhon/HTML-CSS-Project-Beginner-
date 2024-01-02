@@ -35,5 +35,6 @@ A Registration form
 A Simple Portfolio
 
 ![image](https://github.com/omarfarukbadhon/HTML-CSS-Project-Beginner-/assets/95760658/59169781-6917-4587-a4f6-de2a00f518b6)
-![image](https://github.com/omarfarukbadhon/HTML-CSS-Project-Beginner-/assets/95760658/61ada599-22b5-4ee0-8902-0245cce7e9fb)
+![image](https://github.com/omarfarukbadhon/HTML-CSS-Project-Beginner-/assets/95760658/3d80bdeb-cbfa-4e00-a088-e91f9d634a6e)
+
 
