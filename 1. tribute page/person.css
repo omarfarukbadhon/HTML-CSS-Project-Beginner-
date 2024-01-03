@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    background-color: rgb(65, 114, 65);
+    min-width: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.top-section{
+    display: flex;
+    margin-top: 100px;    
+}
+
+.author-image{
+    display: flex;
+}
+
+.shakib-profile-picture{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border: none;
+    border-radius: 50%;
+}
+
+.author-details{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    align-items: end;
+    justify-content: center;
+}
+
+.name,
+.player,
+.position{
+    font-size: 25px;
+    color: white;
+    padding-top: 5px;
+}
+
+.deatils-author{
+    display: flex;
+    flex-direction: column;
+    margin-top: 35px;
+    max-width: 600px;
+    margin-bottom: 105px;
+}
+
+.about{
+    font-size: 30px;
+    color: white;
+    font-style: italic;
+}
+
+.details{
+    margin-top: 15px;
+    font-size: 20px;
+    color: white;
+    text-align: justify;
+    text-justify: inter-word;
+} 
+
