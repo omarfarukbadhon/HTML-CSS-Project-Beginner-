@@ -43,3 +43,10 @@ A Travel Blog
 
 Click here to see the travel blog overview
 https://github.com/omarfarukbadhon/HTML-CSS-Project-Beginner-/blob/master/7.%20Travel%20Blog/view%20of%20travel%20site.mp4
+
+## Project 8
+
+Simple Portfolio
+
+![image](https://github.com/omarfarukbadhon/HTML-CSS-Project-Beginner-/assets/95760658/7d40cf29-193a-4378-ab27-2aff687c90f0)
+
