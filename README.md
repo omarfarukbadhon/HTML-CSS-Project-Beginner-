@@ -50,3 +50,8 @@ Simple Portfolio
 
 ![image](https://github.com/omarfarukbadhon/HTML-CSS-Project-Beginner-/assets/95760658/7d40cf29-193a-4378-ab27-2aff687c90f0)
 
+## Project 8
+
+New yearplanning 
+
+![image](https://github.com/omarfarukbadhon/HTML-CSS-Project-Beginner-/assets/95760658/2e9a02eb-606d-40e7-bd48-c970d9f10d32)
