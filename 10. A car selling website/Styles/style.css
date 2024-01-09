@@ -14,6 +14,7 @@ button {
     color: black;
     font-size: 23px;
     transition: all 0.4s;
+    cursor: pointer;
 }
 
 button:hover {
@@ -346,9 +347,58 @@ main {
     margin-bottom: 50px;
 }
 
+/* Footer Section Style */
 
+footer>div {
+    padding: 120px 240px 50px;
+    background-color: black;
+    color: white;
+}
 
+footer .footer-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
 
+.footer-section .address {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 40px;
+    width: 375px;
+}
+
+.footer-section .icon {
+    display: flex;
+    gap: 10px;
+    padding-right: 230px;
+    margin-bottom: 10px;
+}
+
+hr {
+    margin-bottom: 35px;
+    border: 1px solid rgb(26, 25, 25);
+}
+
+footer .social-media {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+    gap: 15px;
+}
+
+footer button {
+    background-color: black;
+    color: white;
+}
+
+footer button:hover{
+    background-color: pink;
+    color: black;
+}
 
 
 
