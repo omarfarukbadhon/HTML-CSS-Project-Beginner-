@@ -218,3 +218,18 @@ main {
 .image-gallery .first-gallery div:hover i {
     display: block;
 }
+
+/* Second Gallery Image style */
+
+.second-gallery{
+    margin: 30px auto;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.second-gallery iframe{
+    border-radius: 20px;
+}
